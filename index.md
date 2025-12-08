@@ -1,9 +1,9 @@
 ---
-layout: home 
-title: Welcome to Fleurévielle
+layout: single
+title: Final project 
 exceprt: this is a text excerpt 
 header:
-    overlay_image: /assets/images/fleurhome.jpg
+    overlay_image: /assets/images/
 
     actions:
         - label: "learn more" 
