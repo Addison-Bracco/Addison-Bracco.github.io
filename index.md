@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: home 
 title: Final project 
 exceprt: this is a text excerpt 
 header:
