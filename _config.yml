@@ -2,10 +2,10 @@ title : Final Project
 author : 
   name : addison bracco 
   email : aebrac25@stlawu.edu 
-  github : addison-bracco
+  github : Addison-Bracco
   
 
-url: "https://addison-bracco.github.io" # the base hostname & protocol for your site
+url: "https://Addison-Bracco.github.io" # the base hostname & protocol for your site
 baseurl: "/" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
