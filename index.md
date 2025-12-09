@@ -10,4 +10,4 @@ header:
           url: /about 
     overlay_filter: rgba(232, 172, 226, 0.5)
 ---
-#Hello 
+Hi! I am Addison Bracco and welcome to my personal portfolio.
