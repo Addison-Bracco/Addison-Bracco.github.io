@@ -1,6 +1,6 @@
 ---
 layout: home 
-title: Final project 
+title: Addison Bracco 
 exceprt: this is a text excerpt 
 header:
     overlay_image: /assets/images/
