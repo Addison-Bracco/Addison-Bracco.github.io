@@ -2,5 +2,4 @@
 title: about 
 layout: single 
 ---
-Addison Bracco 
-age: 18 
+Hello! My name is Addison Bracco. I am an 18 year old freshmen currently attending St.Lawrence University. I plan on majoring in buisness and communications. 
