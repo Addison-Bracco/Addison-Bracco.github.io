@@ -26,3 +26,6 @@ I graduated highschool in 2025 from Sacred Heart Academy. I currently attend St.
 - St. Agnes Mother’s Club volunteer 
 - Backyard Players volunteer 
 
+# Projects 
+below is a project I created for my Web Design class 
+
