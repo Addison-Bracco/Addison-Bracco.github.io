@@ -8,7 +8,7 @@ header:
     actions:
         - label: "learn more" 
           url: /about 
-    overlay_filter: rgba(232, 172, 226, 0.5)
+    overlay_filter: rgba(250, 196, 244, 0.5)
 ---
 Hi! I am Addison Bracco and welcome to my personal portfolio. Below is a form to contact me.
 <form action="https://api.web3forms.com/submit" method="POST">
