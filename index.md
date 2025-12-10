@@ -13,6 +13,7 @@ header:
 Hi! I am Addison Bracco and welcome to my personal portfolio. Below is a form to contact me.
 <form action="https://api.web3forms.com/submit" method="POST">
   <input type="hidden" name="access_key" value="d719b7cc-9e33-47eb-b352-796fbbc73d34">
+  <label for="name"> Name</label>
   <input type="text" name="name" required>
   <input type="email" name="email" required>
   <textarea name="message" required></textarea>
