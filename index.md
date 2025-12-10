@@ -10,7 +10,7 @@ header:
           url: /about 
     overlay_filter: rgba(250, 196, 244, 0.5)
 ---
-Hi! I am Addison Bracco and welcome to my personal portfolio. Below is a form to contact me.
+Hi! I am Addison Bracco and welcome to my personal portfolio. This website contains information about my education, skills, and work experience. If you would ike to know more information below is a form to contact me.
 
 # Contact Me!
 <form action="https://api.web3forms.com/submit" method="POST">

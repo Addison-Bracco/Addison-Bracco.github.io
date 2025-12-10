@@ -27,7 +27,7 @@ I graduated highschool in 2025 from Sacred Heart Academy. I currently attend St.
 - Backyard Players volunteer 
 
 # Projects 
-below is a project I created for my Web Design class. For this project I created a website for a fictional place. 
+below is a link to a project I created for my Web Design class. For this project I created a website for a fictional place. 
 
-<a href= https://addison-bracco.github.io/jekyll-example/ ></a>
+ https://addison-bracco.github.io/jekyll-example/ 
 
