@@ -3,7 +3,7 @@ layout: home
 title: Addison Bracco 
 exceprt: this is a text excerpt 
 header:
-    overlay_image: /assets/images/addison.jpg
+    overlay_image: /assets/images/
 
     actions:
         - label: "learn more" 
