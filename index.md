@@ -11,7 +11,7 @@ header:
     overlay_filter: rgba(16, 60, 147, 0.8)
 ---
 ![image-left](/assets/images/Addison-150.jpg){: .align-left}
-Hi! I am Addison Bracco and welcome to my personal portfolio. This website contains information about my education, skills, and work experience. If you would like to know more information below is a form to contact me.
+Hi! I am Addison Bracco and welcome to my personal portfolio. I am freshmen at St.Lawrence Universiy studying buisness and communications. If you would like to learn more about me this is the perfect place. This website contains information about my education, skills, and work experience. If you would like to know more information below is a form to contact me.
 
 
 
