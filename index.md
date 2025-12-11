@@ -10,6 +10,7 @@ header:
           url: /about 
     overlay_filter: rgba(16, 60, 147, 0.8)
 ---
+![image-left](/assets/images/Addison_300px.jpg){: .align-left}
 Hi! I am Addison Bracco and welcome to my personal portfolio. This website contains information about my education, skills, and work experience. If you would like to know more information below is a form to contact me.
 
 # Contact Me!
