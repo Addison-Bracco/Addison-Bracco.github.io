@@ -13,6 +13,9 @@ header:
 ![image-left](/assets/images/Addison_300px.jpg){: .align-left}
 Hi! I am Addison Bracco and welcome to my personal portfolio. This website contains information about my education, skills, and work experience. If you would like to know more information below is a form to contact me.
 
+
+
+
 # Contact Me!
 <form action="https://api.web3forms.com/submit" method="POST">
   <input type="hidden" name="access_key" value="d719b7cc-9e33-47eb-b352-796fbbc73d34">
