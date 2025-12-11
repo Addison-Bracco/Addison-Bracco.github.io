@@ -29,5 +29,5 @@ I graduated highschool in 2025 from Sacred Heart Academy. I currently attend St.
 # Projects 
 below is a link to a project I created for my Web Design class. For this project I created a website for a fictional place. 
 
- https://addison-bracco.github.io/jekyll-example/ 
+ [my link](https://addison-bracco.github.io/jekyll-example/) 
 
