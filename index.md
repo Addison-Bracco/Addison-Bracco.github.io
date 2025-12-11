@@ -8,7 +8,7 @@ header:
     actions:
         - label: "learn more" 
           url: /about 
-    overlay_filter: rgba(160, 195, 241, 0.5)
+    overlay_filter: rgba(148, 188, 239, 0.5)
 ---
 Hi! I am Addison Bracco and welcome to my personal portfolio. This website contains information about my education, skills, and work experience. If you would like to know more information below is a form to contact me.
 
