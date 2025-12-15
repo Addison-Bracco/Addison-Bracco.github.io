@@ -16,7 +16,7 @@ I graduated highschool in 2025 from Sacred Heart Academy. I currently attend St.
 
 # Activities 
 - Red Dance Team
-- Varsity Tack Team
+- Varsity Track Team
 - Eucharistic Minister
 - Rock the Street Wall Street club member
 - Lady Spartans Against Cancer club member
