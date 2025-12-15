@@ -2,7 +2,7 @@
 layout: single 
 title: Education 
 ---
-I graduated highschool in 2025 from Sacred Heart Academy. I currently attend St.Lawrence University and I am a freshmen. Below are two lists that incude the honnors and awards I recived in highschool along with activities I participated in during highschool. I also have included a project I did in college below. 
+I graduated highschool in 2025 from Sacred Heart Academy. I currently attend St.Lawrence University and I am a freshmen. Below are two lists that incude the honnors and awards I recived in highschool along with activities I participated in during highschool. 
 
 # Honors and Awards 
 - National Honor Society 
