@@ -22,8 +22,8 @@ Hi! I am Addison Bracco and welcome to my personal portfolio. I am freshmen at S
   <label for="name"> Name</label>
   <input type="text" id="name" name="name" required>
   <label for="email"> Email</label>
-  <input type="email" name="email" required>
+  <input type="email" id= "email" name="email" required>
   <label for="message"> Message</label>
-  <textarea name="message" required></textarea>
+  <textarea name="message" id="message" required></textarea>
   <button type="submit">Submit</button>
 </form>
